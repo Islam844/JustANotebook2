@@ -1,0 +1,16 @@
+M:\admin\source\repos\JustANotebook2\tests\obj\Debug\tests.csprojAssemblyReference.cache
+M:\admin\source\repos\JustANotebook2\tests\obj\Debug\tests.csproj.CoreCompileInputs.cache
+M:\admin\source\repos\JustANotebook2\tests\bin\Debug\tests.exe.config
+M:\admin\source\repos\JustANotebook2\tests\bin\Debug\tests.exe
+M:\admin\source\repos\JustANotebook2\tests\bin\Debug\tests.pdb
+M:\admin\source\repos\JustANotebook2\tests\obj\Debug\tests.exe
+M:\admin\source\repos\JustANotebook2\tests\obj\Debug\tests.pdb
+M:\admin\source\repos\JustANotebook2\tests\bin\Debug\EntityFramework.dll
+M:\admin\source\repos\JustANotebook2\tests\bin\Debug\EntityFramework.SqlServer.dll
+M:\admin\source\repos\JustANotebook2\tests\bin\Debug\EntityFramework.xml
+M:\admin\source\repos\JustANotebook2\tests\bin\Debug\EntityFramework.SqlServer.xml
+M:\admin\source\repos\JustANotebook2\tests\obj\Debug\tests.csproj.CopyComplete
+M:\admin\source\repos\JustANotebook2\tests\bin\Debug\System.Data.SQLite.dll
+M:\admin\source\repos\JustANotebook2\tests\bin\Debug\System.Data.SQLite.EF6.dll
+M:\admin\source\repos\JustANotebook2\tests\bin\Debug\System.Data.SQLite.Linq.dll
+M:\admin\source\repos\JustANotebook2\tests\bin\Debug\System.Data.SQLite.xml

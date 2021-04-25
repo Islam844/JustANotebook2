@@ -1,0 +1,66 @@
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.exe
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.deps.json
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.runtimeconfig.json
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.runtimeconfig.dev.json
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.pdb
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\EntityFramework.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.csprojAssemblyReference.cache
+M:\admin\source\repos\JustANotebook2\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.csproj.GenerateResource.cache
+M:\admin\source\repos\JustANotebook2\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.AssemblyInfoInputs.cache
+M:\admin\source\repos\JustANotebook2\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.AssemblyInfo.cs
+M:\admin\source\repos\JustANotebook2\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.csproj.CoreCompileInputs.cache
+M:\admin\source\repos\JustANotebook2\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.csproj.CopyComplete
+M:\admin\source\repos\JustANotebook2\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.dll
+M:\admin\source\repos\JustANotebook2\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.pdb
+M:\admin\source\repos\JustANotebook2\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.genruntimeconfig.cache
+M:\admin\source\repos\JustANotebook2\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.Properties.Resources.resources
+M:\admin\source\repos\JustANotebook2\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.View.MainForm.resources
+M:\admin\source\repos\JustANotebook2\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.View.EditNoteForm.resources
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.csprojAssemblyReference.cache
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.Properties.Resources.resources
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.View.EditNoteForm.resources
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.View.MainForm.resources
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.csproj.GenerateResource.cache
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.AssemblyInfoInputs.cache
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.AssemblyInfo.cs
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.csproj.CoreCompileInputs.cache
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.pdb
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.exe
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.deps.json
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.runtimeconfig.json
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.runtimeconfig.dev.json
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.pdb
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\EntityFramework.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.csproj.CopyComplete
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\obj\Debug\netcoreapp3.1\JustANotebook2.genruntimeconfig.cache
+M:\admin\source\repos\JustANotebook2 - Copy\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.dll.config
+M:\admin\source\repos\JustANotebook2\JustANotebook2\bin\Debug\netcoreapp3.1\JustANotebook2.dll.config
